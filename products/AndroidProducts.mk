@@ -30,3 +30,7 @@
     PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/angler/pa_angler.mk \
     $(LOCAL_DIR)/bullhead/pa_bullhead.mk
+
+# js01ltedcm
+   PRODUCT_MAKEFILES += \
+   $(LOCAL_DIR)/js01ltedcm/pa_js01ltedcm.mk
